@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* add comment for the merge test (by shoko)
+
+* hogehoge
+
+* fuga
+
+* foo, bar
